@@ -26,15 +26,15 @@ This project focuses on exploring the historical stock prices of bank stocks, sp
    Open EDA_Stock_Data.ipynb in Jupyter or any compatible notebook environment.
    Execute the cells to run the analysis.
  ## Data Collection
-    The historical stock data for bank stocks was fetched using pandas_datareader and yfinance.
-    Tickers used: JPM (JPMorgan Chase & Co.), GS (Goldman Sachs Group Inc.), BAC (Bank of America Corporation), C (Citigroup Inc.).
-    Date range: From the early 2000s to early 2024.
+   The historical stock data for bank stocks was fetched using pandas_datareader and yfinance.
+   Tickers used: JPM (JPMorgan Chase & Co.), GS (Goldman Sachs Group Inc.), BAC (Bank of America Corporation), C (Citigroup Inc.).
+   Date range: From the early 2000s to early 2024.
 ## Analysis Highlights
-    **Basic Statistics:** Summary statistics of stock prices.
-    **Time Series Visualization:** Plots of stock prices over time.
-    **Candlestick Charts:** Visualizing open, high, low, close prices.
-    **Financial Crisis Analysis:** Highlighting the period and comparing stock performance.
-    **Returns Analysis: Calculating and visualizing returns.
+   **Basic Statistics:** Summary statistics of stock prices.
+   **Time Series Visualization:** Plots of stock prices over time.
+   **Candlestick Charts:** Visualizing open, high, low, close prices.
+   **Financial Crisis Analysis:** Highlighting the period and comparing stock performance.
+   **Returns Analysis:** Calculating and visualizing returns.
 ## Usage
   Open notebook.ipynb in Jupyter or any compatible notebook environment.
   Run the cells to execute the analysis.
