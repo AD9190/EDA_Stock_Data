@@ -1,4 +1,4 @@
-# "Insights into Financial Markets: A Comprehensive Analysis of Bank Stock Data"
+# Insights into Financial Markets: A Comprehensive Analysis of Bank Stock Data
 
 ## Overview
 This project focuses on exploring the historical stock prices of bank stocks, specifically looking at their progression from the financial crisis to early 2024. It is important to note that this analysis is **not meant to be a robust financial analysis or financial advice** but rather an exercise in data exploration.
